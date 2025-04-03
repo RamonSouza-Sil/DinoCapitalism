@@ -1,0 +1,2 @@
+# Dino-Capitalism
+Projeto Clicker
